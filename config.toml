@@ -1,0 +1,18 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Bora Banjanin"
+theme = 'hugo-xmin'
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "Photos"
+    url = "/photos/"
+    weight = 2
+
+
+[params]
+    description = "A website built through Hugo and blogdown."
+    footer = "&copy; borabanjanin@yahoo.com | [Github](https://github.com/borabanjanin) | [Instagram](https://www.instagram.com/borabanjanin/) -- Made with [Hugo Xmin](https://themes.gohugo.io/hugo-xmin/)"
