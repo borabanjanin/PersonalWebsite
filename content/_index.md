@@ -1,7 +1,6 @@
 
 
 ## Bora Banjanin
-### borabanjanin@yahoo.com
 <img class="special-img-class" align="right" style="width:40%" src="/RedRock.jpg" />
 
 
